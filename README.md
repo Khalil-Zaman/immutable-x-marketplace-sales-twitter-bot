@@ -43,10 +43,10 @@ heroku ps:scale worker=1
 
 As mentioned at the top of the README, it runs every 60 seconds by default - you can change this to run less often if you'd like to keep it on a free Heroku instance.
 
+## Documentation
+
+For more information on the Immutable X API, please see: https://docs.x.immutable.com/reference/get_v1-applications-1
+
 ## License
 
 This code is licensed under the [ISC License](https://choosealicense.com/licenses/isc/).
-
-## Documentation
-
-For more information on the Immutable X API, please see: https://github.com/KadeStroude/immutable-x-marketplace-sales-twitter-bot
