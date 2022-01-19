@@ -1,6 +1,8 @@
 # Immutable X Sales Twitter Bot
 
-A (quickly put together) bot that monitors Immutable X (ETH Layer 2 "built for NFTs") sales for a given collection & then posts them to Twitter.
+A bot that monitors Immutable X (ETH Layer 2 "built for NFTs") sales for a given collection & then posts them to Twitter.
+
+Please note, this is an amended fork from an original creation by @dsgriffin.
 
 ## Requirements
 
