@@ -46,3 +46,7 @@ As mentioned at the top of the README, it runs every 60 seconds by default - you
 ## License
 
 This code is licensed under the [ISC License](https://choosealicense.com/licenses/isc/).
+
+## Documentation
+
+For more information on the Immutable X API, please see: https://github.com/KadeStroude/immutable-x-marketplace-sales-twitter-bot
